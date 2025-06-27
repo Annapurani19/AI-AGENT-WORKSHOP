@@ -1,0 +1,547 @@
+Task 1:
+Description: Extract goals, audience, and outcomes from: {"project": "Task Management App", "goal": "Streamline task assignment and tracking", "audience": ["Developers", "Managers"], "feedback": "Users want intuitive UI, real-time updates, and easy task prioritization"}. Output a valid JSON string without any additional text or markers.
+Output: ```json
+{
+  "objectives": [
+    "Streamline task assignment",
+    "Improve task tracking"
+  ],
+  "audience": [
+    "Developers",
+    "Managers"
+  ],
+  "target_outcomes": [
+    "Intuitive User Interface",
+    "Real-time updates",
+    "Easy task prioritization"
+  ]
+}
+```
+--------------------------------------------------
+Task 2:
+Description: 
+Analyze user journey based on project context and feedback. Use RAGJourneyAnalyzer tool with the following JSON input: 
+{"objectives": "Streamline task assignment and tracking", "audience": ["Developers", "Managers"], "feedback": "Users want intuitive UI, real-time updates, and easy task prioritization"}
+Output a valid JSON string without any additional text or markers.
+
+Output: , Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks, Generic user tasks
+--------------------------------------------------
+Task 3:
+Description: 
+Create a feature and task plan based on user journey and project context: {"project": "Task Management App", "goal": "Streamline task assignment and tracking", "audience": ["Developers", "Managers"], "feedback": "Users want intuitive UI, real-time updates, and easy task prioritization"}.
+Generate a JSON structure with application, user_roles, objectives, feedback, and target_outcomes. Ensure the plan includes:
+1. Intuitive UI: Drag-and-drop functionality, clear visual cues, tooltips.
+2. Real-time Updates: Status indicators, live comment feeds, notification badges.
+3. Easy Task Prioritization: Drag-and-drop prioritization, customizable filters, visual priority indicators (e.g., color-coding, icons).
+Output a valid JSON string without any additional text or markers.
+
+Output: ```json
+{
+  "application": "Task Management App",
+  "user_roles": [
+    {
+      "role": "Developer",
+      "intentions": [
+        "Receive assigned tasks with clear instructions and deadlines.",
+        "Update task status efficiently.",
+        "Collaborate with team members on specific tasks.",
+        "Prioritize tasks based on urgency and importance."
+      ],
+      "tasks": [
+        {
+          "task_name": "View Assigned Tasks",
+          "description": "Access a list of tasks assigned to the developer.",
+          "journey": [
+            {
+              "step": "Login to the application",
+              "ui_elements": ["Login form (username, password)"]
+            },
+            {
+              "step": "Navigate to 'My Tasks' section",
+              "ui_elements": ["Navigation menu", "My Tasks link/button"]
+            },
+            {
+              "step": "View task list",
+              "ui_elements": ["Task cards/rows with title, description, status, priority"]
+            }
+          ]
+        },
+        {
+          "task_name": "Update Task Status",
+          "description": "Change the status of a task (e.g., 'To Do', 'In Progress', 'Completed').",
+          "journey": [
+            {
+              "step": "Select a task from the task list",
+              "ui_elements": ["Task cards/rows"]
+            },
+            {
+              "step": "Open task details",
+              "ui_elements": ["Task details view/modal"]
+            },
+            {
+              "step": "Change the status using a dropdown or similar control",
+              "ui_elements": ["Status dropdown", "Status buttons"]
+            },
+            {
+              "step": "Save the changes",
+              "ui_elements": ["Save button"]
+            }
+          ]
+        },
+        {
+          "task_name": "Communicate on Tasks",
+          "description": "Add comments and communicate with other team members on specific tasks.",
+          "journey": [
+            {
+              "step": "Select a task from the task list",
+              "ui_elements": ["Task cards/rows"]
+            },
+            {
+              "step": "Open task details",
+              "ui_elements": ["Task details view/modal"]
+            },
+            {
+              "step": "Add a comment in the comment section",
+              "ui_elements": ["Comment input field", "Submit button"]
+            },
+            {
+              "step": "View existing comments",
+              "ui_elements": ["Comment list with timestamps and author information"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "Manager",
+      "intentions": [
+        "Assign tasks to team members with clear deadlines.",
+        "Monitor task progress and identify bottlenecks.",
+        "Prioritize tasks based on project goals.",
+        "Get a high-level overview of project status."
+      ],
+      "tasks": [
+        {
+          "task_name": "Assign Tasks",
+          "description": "Create and assign tasks to team members.",
+          "journey": [
+            {
+              "step": "Navigate to the 'Task Management' section",
+              "ui_elements": ["Navigation menu", "Task Management link/button"]
+            },
+            {
+              "step": "Create a new task",
+              "ui_elements": ["'Create Task' button", "Task creation form (title, description, assignee, deadline, priority)"]
+            },
+            {
+              "step": "Assign the task to a team member",
+              "ui_elements": ["Assignee dropdown/selection list"]
+            },
+            {
+              "step": "Set the task deadline and priority",
+              "ui_elements": ["Date picker", "Priority dropdown/selection"]
+            },
+            {
+              "step": "Save the task",
+              "ui_elements": ["Save button"]
+            }
+          ]
+        },
+        {
+          "task_name": "Monitor Task Progress",
+          "description": "Track the progress of assigned tasks.",
+          "journey": [
+            {
+              "step": "Navigate to the 'Task Management' or 'Dashboard' section",
+              "ui_elements": ["Navigation menu", "Task Management/Dashboard link/button"]
+            },
+            {
+              "step": "View task list with status indicators",
+              "ui_elements": ["Task cards/rows with status icons/labels, progress bars"]
+            },
+            {
+              "step": "Filter tasks by assignee, status, or priority",
+              "ui_elements": ["Filter dropdowns/selection lists"]
+            }
+          ]
+        },
+        {
+          "task_name": "Prioritize Tasks",
+          "description": "Prioritize tasks based on project goals and deadlines.",
+          "journey": [
+            {
+              "step": "Navigate to the 'Task Management' section",
+              "ui_elements": ["Navigation menu", "Task Management link/button"]
+            },
+            {
+              "step": "View task list",
+              "ui_elements": ["Task cards/rows with priority indicators"]
+            },
+            {
+              "step": "Drag and drop tasks to reorder them based on priority",
+              "ui_elements": ["Draggable task cards/rows"]
+            },
+            {
+              "step": "Use filters to view tasks by priority",
+              "ui_elements": ["Priority filter"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    "Improve team collaboration and communication.",
+    "Increase task completion rate.",
+    "Enhance project visibility and control.",
+    "Reduce time spent on task management."
+  ],
+  "feedback": [
+    "Users want an intuitive UI with drag-and-drop functionality.",
+    "Users need real-time updates on task status and progress.",
+    "Users require easy task prioritization with visual cues.",
+    "Users want customizable filters to quickly find specific tasks."
+  ],
+  "target_outcomes": [
+    "Increased user satisfaction with the task management process.",
+    "Improved team productivity and efficiency.",
+    "Better project management and on-time delivery.",
+    "Reduced communication overhead and faster issue resolution."
+  ],
+  "features": [
+    {
+      "feature_name": "Intuitive UI",
+      "tasks": [
+        "Implement drag-and-drop functionality for task prioritization.",
+        "Use clear visual cues (e.g., icons, color-coding) to indicate task status and priority.",
+        "Provide tooltips for all UI elements to explain their functionality."
+      ]
+    },
+    {
+      "feature_name": "Real-time Updates",
+      "tasks": [
+        "Implement status indicators that update in real-time.",
+        "Create a live comment feed for each task.",
+        "Use notification badges to alert users of new updates and comments."
+      ]
+    },
+    {
+      "feature_name": "Easy Task Prioritization",
+      "tasks": [
+        "Implement drag-and-drop prioritization for tasks.",
+        "Provide customizable filters to sort and filter tasks.",
+        "Use visual priority indicators (e.g., color-coding, icons) to highlight important tasks."
+      ]
+    }
+  ]
+}
+```
+--------------------------------------------------
+Task 4:
+Description: Generate specific user actions from feature plan and journey map, ensuring actions are detailed for both Manager and Developer roles. Output a valid JSON string without any additional text or markers.
+Output: ```json
+{
+  "userActions": [
+    {
+      "role": "Manager",
+      "actions": [
+        {
+          "stage": "Planning",
+          "steps": [
+            "Define project scope and objectives for the new authentication system.",
+            "Identify key stakeholders and their requirements.",
+            "Research and select appropriate MFA methods (e.g., SMS, authenticator app, hardware token).",
+            "Evaluate different authentication system vendors or open-source solutions.",
+            "Create a project timeline and budget.",
+            "Assign roles and responsibilities to team members.",
+            "Conduct a risk assessment and develop mitigation strategies.",
+            "Communicate project plan to stakeholders and gather feedback.",
+            "Secure necessary approvals and resources."
+          ]
+        },
+        {
+          "stage": "Development",
+          "steps": [
+            "Monitor development progress and address any roadblocks.",
+            "Facilitate communication and collaboration between developers and other teams.",
+            "Review code quality and adherence to security standards.",
+            "Track and manage project budget and timeline.",
+            "Report progress to stakeholders.",
+            "Manage scope changes and their impact on the project.",
+            "Ensure compliance with relevant regulations and policies."
+          ]
+        },
+        {
+          "stage": "Testing",
+          "steps": [
+            "Define testing strategy and test cases.",
+            "Coordinate user acceptance testing (UAT).",
+            "Review test results and ensure all defects are resolved.",
+            "Approve the system for deployment."
+          ]
+        },
+        {
+          "stage": "Deployment",
+          "steps": [
+            "Coordinate the deployment of the new authentication system.",
+            "Communicate deployment plan to users.",
+            "Monitor system performance and stability after deployment.",
+            "Address any issues or incidents that arise.",
+            "Gather user feedback and identify areas for improvement.",
+            "Document the deployment process and configuration.",
+            "Plan for ongoing maintenance and support."
+          ]
+        }
+      ]
+    },
+    {
+      "role": "Developer",
+      "actions": [
+        {
+          "stage": "Planning",
+          "steps": [
+            "Participate in requirements gathering and analysis.",
+            "Provide technical input on the feasibility of different MFA methods.",
+            "Assist in evaluating different authentication system solutions.",
+            "Estimate development effort and timelines.",
+            "Collaborate with other developers to design the system architecture.",
+            "Attend project planning meetings."
+          ]
+        },
+        {
+          "stage": "Development",
+          "steps": [
+            "Write code to implement the new authentication system and MFA functionality.",
+            "Integrate the new system with existing applications and services.",
+            "Implement security best practices to protect user credentials.",
+            "Write unit tests and integration tests.",
+            "Debug and fix any issues that arise.",
+            "Participate in code reviews.",
+            "Document the code and system architecture.",
+            "Use version control to manage code changes."
+          ]
+        },
+        {
+          "stage": "Testing",
+          "steps": [
+            "Conduct unit testing and integration testing.",
+            "Fix any bugs or defects identified during testing.",
+            "Participate in user acceptance testing (UAT).",
+            "Provide support to users during UAT."
+          ]
+        },
+        {
+          "stage": "Deployment",
+          "steps": [
+            "Prepare the system for deployment.",
+            "Deploy the system to the production environment.",
+            "Monitor system performance and stability after deployment.",
+            "Troubleshoot any issues that arise during deployment.",
+            "Provide support to users after deployment.",
+            "Automate deployment processes where possible."
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+--------------------------------------------------
+Task 5:
+Description: 
+Refine the feature plan and action map based on feedback: Mentor Feedback: Prioritize real-time notifications over complex UI animations.
+User Feedback: Need simple task creation and status tracking..
+Use the following JSON as the base and enhance the 'ui_elements' in the 'journey' sections for both Manager and Developer roles to address:
+1. Intuitive UI: Add drag-and-drop functionality, clear visual cues, and tooltips.
+2. Real-time Updates: Include status indicators, live comment feeds, and notification badges.
+3. Easy Task Prioritization: Add drag-and-drop prioritization, customizable filters, and visual priority indicators (e.g., color-coding, icons).
+Ensure the refined JSON maintains the structure: application, user_roles, objectives, feedback, target_outcomes, and includes a change_log with entries like "Added drag-and-drop for task prioritization".
+Output ONLY a valid JSON string with no additional text, explanations, or markers (e.g., no ```json ```, no "Here is the output:"). Example:
+{
+  "application": "Task Assignment and Tracking",
+  "user_roles": [...],
+  "objectives": "...",
+  "feedback": "...",
+  "target_outcomes": {...},
+  "change_log": ["Added drag-and-drop for task prioritization", "..."]
+}
+Base JSON:
+{"application": "Task Management App", "user_roles": [{"role": "Manager", "intentions": ["Efficiently assign tasks to team members.", "Monitor task progress in real-time.", "Ensure timely task completion.", "Facilitate team collaboration.", "Prioritize tasks based on deadlines and importance."], "tasks": ["Create and assign tasks with clear descriptions and deadlines.", "Review and adjust task priorities based on project needs.", "Monitor task status and identify potential roadblocks.", "Communicate with developers to provide guidance and support.", "Generate reports on team progress and task completion rates.", "Approve completed tasks and provide feedback."], "journey": [{"step": "Login to the application.", "description": "Manager logs in using their credentials.", "ui_elements": ["Username field", "Password field", "Login button"], "expected_outcome": "Successful login and access to the dashboard."}, {"step": "Create a new task.", "description": "Manager creates a new task, specifying details such as assignee, due date, and priority.", "ui_elements": ["Create Task button", "Task Description field", "Assignee dropdown", "Due Date picker", "Priority dropdown"], "expected_outcome": "Task is successfully created and assigned to the selected developer."}, {"step": "Monitor task progress.", "description": "Manager tracks the progress of assigned tasks, viewing status updates and comments.", "ui_elements": ["Task List", "Task Details view", "Status indicators", "Comment section"], "expected_outcome": "Manager has a clear understanding of the current status of each task."}, {"step": "Communicate with developers.", "description": "Manager communicates with developers through the application to provide feedback, answer questions, or offer assistance.", "ui_elements": ["Comment section", "Direct messaging feature"], "expected_outcome": "Clear and efficient communication between manager and developer."}, {"step": "Generate progress reports.", "description": "Manager generates reports to track team performance and identify areas for improvement.", "ui_elements": ["Reporting dashboard", "Report generation options"], "expected_outcome": "Manager has access to data-driven insights on team progress."}]}, {"role": "Developer", "intentions": ["Receive and understand assigned tasks.", "Update task status in real-time.", "Collaborate with team members on task completion.", "Prioritize tasks based on deadlines and importance.", "Seek clarification or assistance when needed."], "tasks": ["Review task descriptions and requirements.", "Update task status as progress is made.", "Communicate with managers and team members to resolve issues.", "Prioritize tasks based on deadlines and dependencies.", "Request clarification or assistance from managers when needed.", "Complete assigned tasks and submit for review."], "journey": [{"step": "Login to the application.", "description": "Developer logs in using their credentials.", "ui_elements": ["Username field", "Password field", "Login button"], "expected_outcome": "Successful login and access to the dashboard."}, {"step": "View assigned tasks.", "description": "Developer views a list of tasks assigned to them.", "ui_elements": ["Task List", "Task Details view"], "expected_outcome": "Developer has a clear understanding of their assigned tasks."}, {"step": "Update task status.", "description": "Developer updates the status of a task as they make progress.", "ui_elements": ["Status dropdown", "Progress bar"], "expected_outcome": "Task status is updated in real-time, providing visibility to the manager."}, {"step": "Communicate with manager.", "description": "Developer communicates with the manager to ask questions, provide updates, or request assistance.", "ui_elements": ["Comment section", "Direct messaging feature"], "expected_outcome": "Efficient communication and resolution of issues."}, {"step": "Mark task as complete.", "description": "Developer marks a task as complete and submits it for review.", "ui_elements": ["Complete button", "Submit for review button"], "expected_outcome": "Task is marked as complete and awaits manager approval."}]}], "objectives": "Streamline task assignment and tracking", "feedback": "Users want intuitive UI, real-time updates, and easy task prioritization", "target_outcomes": {"ui": "Reduce onboarding time by 50%, achieve 4.5/5 satisfaction, decrease support requests by 40%", "realtime_updates": "Updates within 1 second, increase daily active users by 30%, reduce manual updates by 60%", "task_prioritization": "Prioritize within 3 clicks, improve team efficiency by 20%, increase adoption by 75%, decrease missed deadlines by 35%"}}
+
+Output: ```json
+{
+  "application": "Task Management App",
+  "user_roles": [
+    {
+      "role": "Manager",
+      "intentions": [
+        "Efficiently assign tasks to team members.",
+        "Monitor task progress in real-time.",
+        "Ensure timely task completion.",
+        "Facilitate team collaboration.",
+        "Prioritize tasks based on deadlines and importance."
+      ],
+      "tasks": [
+        "Create and assign tasks with clear descriptions and deadlines.",
+        "Review and adjust task priorities based on project needs.",
+        "Monitor task status and identify potential roadblocks.",
+        "Communicate with developers to provide guidance and support.",
+        "Generate reports on team progress and task completion rates.",
+        "Approve completed tasks and provide feedback."
+      ],
+      "journey": [
+        {
+          "step": "Login to the application.",
+          "description": "Manager logs in using their credentials.",
+          "ui_elements": [
+            "Username field",
+            "Password field",
+            "Login button"
+          ],
+          "expected_outcome": "Successful login and access to the dashboard."
+        },
+        {
+          "step": "Create a new task.",
+          "description": "Manager creates a new task, specifying details such as assignee, due date, and priority.",
+          "ui_elements": [
+            "Create Task button",
+            "Task Description field (with rich text editor)",
+            "Assignee dropdown (with search functionality)",
+            "Due Date picker (with calendar view)",
+            "Priority dropdown (with color-coded options)",
+            "Drag-and-drop task creation area",
+            "Tooltips for each field"
+          ],
+          "expected_outcome": "Task is successfully created and assigned to the selected developer."
+        },
+        {
+          "step": "Monitor task progress.",
+          "description": "Manager tracks the progress of assigned tasks, viewing status updates and comments.",
+          "ui_elements": [
+            "Task List (with drag-and-drop prioritization)",
+            "Task Details view (with expanded information)",
+            "Status indicators (real-time updates)",
+            "Comment section (live comment feed)",
+            "Notification badges (for new comments and status changes)",
+            "Customizable filters (by assignee, status, priority)",
+            "Visual priority indicators (color-coding, icons)"
+          ],
+          "expected_outcome": "Manager has a clear understanding of the current status of each task."
+        },
+        {
+          "step": "Communicate with developers.",
+          "description": "Manager communicates with developers through the application to provide feedback, answer questions, or offer assistance.",
+          "ui_elements": [
+            "Comment section (live comment feed)",
+            "Direct messaging feature (with read receipts)",
+            "Real-time notification for new messages"
+          ],
+          "expected_outcome": "Clear and efficient communication between manager and developer."
+        },
+        {
+          "step": "Generate progress reports.",
+          "description": "Manager generates reports to track team performance and identify areas for improvement.",
+          "ui_elements": [
+            "Reporting dashboard (with interactive charts)",
+            "Report generation options (customizable date ranges and metrics)",
+            "Downloadable reports (in various formats)"
+          ],
+          "expected_outcome": "Manager has access to data-driven insights on team progress."
+        }
+      ]
+    },
+    {
+      "role": "Developer",
+      "intentions": [
+        "Receive and understand assigned tasks.",
+        "Update task status in real-time.",
+        "Collaborate with team members on task completion.",
+        "Prioritize tasks based on deadlines and importance.",
+        "Seek clarification or assistance when needed."
+      ],
+      "tasks": [
+        "Review task descriptions and requirements.",
+        "Update task status as progress is made.",
+        "Communicate with managers and team members to resolve issues.",
+        "Prioritize tasks based on deadlines and dependencies.",
+        "Request clarification or assistance from managers when needed.",
+        "Complete assigned tasks and submit for review."
+      ],
+      "journey": [
+        {
+          "step": "Login to the application.",
+          "description": "Developer logs in using their credentials.",
+          "ui_elements": [
+            "Username field",
+            "Password field",
+            "Login button"
+          ],
+          "expected_outcome": "Successful login and access to the dashboard."
+        },
+        {
+          "step": "View assigned tasks.",
+          "description": "Developer views a list of tasks assigned to them.",
+          "ui_elements": [
+            "Task List (with drag-and-drop prioritization)",
+            "Task Details view (with expanded information)",
+            "Visual priority indicators (color-coding, icons)",
+            "Customizable filters (by status, priority)"
+          ],
+          "expected_outcome": "Developer has a clear understanding of their assigned tasks."
+        },
+        {
+          "step": "Update task status.",
+          "description": "Developer updates the status of a task as they make progress.",
+          "ui_elements": [
+            "Status dropdown (with clear options)",
+            "Progress bar (with percentage display)",
+            "Real-time status updates",
+            "Notification badges (for manager feedback)"
+          ],
+          "expected_outcome": "Task status is updated in real-time, providing visibility to the manager."
+        },
+        {
+          "step": "Communicate with manager.",
+          "description": "Developer communicates with the manager to ask questions, provide updates, or request assistance.",
+          "ui_elements": [
+            "Comment section (live comment feed)",
+            "Direct messaging feature (with read receipts)",
+            "Real-time notification for new messages"
+          ],
+          "expected_outcome": "Efficient communication and resolution of issues."
+        },
+        {
+          "step": "Mark task as complete.",
+          "description": "Developer marks a task as complete and submits it for review.",
+          "ui_elements": [
+            "Complete button",
+            "Submit for review button",
+            "Confirmation dialog (before submission)",
+            "Real-time notification upon submission"
+          ],
+          "expected_outcome": "Task is marked as complete and awaits manager approval."
+        }
+      ]
+    }
+  ],
+  "objectives": "Streamline task assignment and tracking",
+  "feedback": "Users want intuitive UI, real-time updates, and easy task prioritization",
+  "target_outcomes": {
+    "ui": "Reduce onboarding time by 50%, achieve 4.5/5 satisfaction, decrease support requests by 40%",
+    "realtime_updates": "Updates within 1 second, increase daily active users by 30%, reduce manual updates by 60%",
+    "task_prioritization": "Prioritize within 3 clicks, improve team efficiency by 20%, increase adoption by 75%, decrease missed deadlines by 35%"
+  },
+  "change_log": [
+    "Added drag-and-drop for task prioritization",
+    "Implemented real-time status updates",
+    "Integrated live comment feeds",
+    "Added notification badges for new comments and status changes",
+    "Included customizable filters for task lists",
+    "Implemented visual priority indicators (color-coding, icons)",
+    "Added tooltips for UI elements",
+    "Enhanced task creation with a rich text editor and search functionality for assignee selection",
+    "Prioritized real-time notifications over complex UI animations"
+  ]
+}
+```
+--------------------------------------------------
