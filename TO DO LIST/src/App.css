@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e2f;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+
+.App {
+  max-width: 500px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-color: #2c2c3e;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.4rem;
+  color: #ffa500;
+  margin-bottom: 1rem;
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 70%;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-left: 5px;
+  background-color: #ffa500;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff8c00;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #3e3e50;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.2);
+}
+
+li span {
+  flex: 1;
+  text-align: left;
+  margin-left: 10px;
+}
+
+li input[type="text"] {
+  flex: 1;
+  margin-right: 10px;
+  padding: 6px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+}
+
+@media (max-width: 600px) {
+  .App {
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
